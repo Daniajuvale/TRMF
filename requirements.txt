@@ -1,0 +1,9 @@
+altair
+base64
+plotly
+matplotlib
+numpy
+pandas
+scikit-learn
+sklearn
+xgboost
